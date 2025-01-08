@@ -19,7 +19,7 @@
     "eject": "react-scripts eject"
   },
   "overrides": {
-    "react": "19.0.0"
+    "react": "^19.0.0"
   },
   "eslintConfig": {
     "extends": [
