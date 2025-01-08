@@ -20,7 +20,7 @@
   },
   "overrides": {
     "react": "19.0.0"
-  }
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
